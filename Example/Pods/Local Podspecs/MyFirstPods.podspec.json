@@ -1,0 +1,22 @@
+{
+  "name": "MyFirstPods",
+  "version": "0.1.0",
+  "summary": "学习pods",
+  "description": "<<<学习怎么制作pods>>>",
+  "homepage": "https://github.com/lujianrong/MyFirstPods.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "JR_ios@126.com": "lujianrong_ios@126.com"
+  },
+  "source": {
+    "git": "https://github.com/lujianrong/MyFirstPods.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MyFirstPods/Classes/**/*"
+}
